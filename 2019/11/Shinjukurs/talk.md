@@ -5,9 +5,13 @@ Shinjuku.rs #7 2019/11/19(@togatoga)
 #### About Me
 - togatoga
 	- [Github: https://github.com/togatoga](https://github.com/togatoga)
-	- [Twitter: https://twitter.com/togatoga](https://twitter.com/togatoga_)
+	- [Twitter: https://twitter.com/togatoga_](https://twitter.com/togatoga_)
+	- (元)競技プログラミング勢
+	- 使用言語
+		- C++, Python, Golang, Rust
 - Rust LT#5
 	- RustでゲームAIコンテスト出た話
+
 ---
 #### Spotifyとは
 - 音楽ストリーミング配信サイトの最大手の一つ(Apple Music, Amazon Music)
@@ -18,6 +22,7 @@ Shinjuku.rs #7 2019/11/19(@togatoga)
 		- 一部機能はプレミアム会員のみ(曲の再生など)
 			- 月額980円、学生なら480円
 - SpotifyのAPIを使ってターミナルクライアントを作ってる話
+
 ---
 #### モチベーション
 - OS環境によって操作するキーバインドが若干異なる
@@ -45,7 +50,7 @@ Shinjuku.rs #7 2019/11/19(@togatoga)
 - コンパイルエラーとの挌闘
 	- API側とUI側を分けるためにマルチスレッドとチャネルを導入
 		- 所有権周りやチャンネルでコンパイルエラー
-- GoやPythonに比べるとTUIやAPI(テキストUI)のライブラリが未熟
+- GoやPythonに比べるとTUIやAPIのライブラリが未熟
 	- 日本語の表示がおかしくなる
 	- 応用例などのブログ記事が少ない
 - 他RustのOSSへのコントリビュート
